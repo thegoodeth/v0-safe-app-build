@@ -1,9 +1,0 @@
-{
-  "name": "SafeVault",
-  "description": "Professional Safe App for managing multisig wallets with transaction capabilities",
-  "iconPath": "logo.svg",
-  "providedBy": {
-    "name": "SafeVault Team",
-    "url": "https://safevault.app"
-  }
-}
